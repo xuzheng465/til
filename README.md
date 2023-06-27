@@ -13,6 +13,8 @@ Table of Contents
 
 [matplotlib not found in jupyter notebook](./python/notebook-matplotlib-not-found.md)
 
+[random uniform function](./python/random-uniform.md)
+
 ## [git](./git/)
 
 [git pretty log](./git/pretty-log.md)
