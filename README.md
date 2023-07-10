@@ -12,6 +12,7 @@ Table of Contents
       * [git](#git)
       * [math](#math)
       * [finance](#finance)
+      * [general](#general)
 
 
 ## [swift](./swift/)
@@ -40,3 +41,7 @@ Table of Contents
 ## [finance](./finance/)
 
 [important insight](./finance/important-insight.md)
+
+## [general](./general/)
+
+[read code](./general/read-code.md)
