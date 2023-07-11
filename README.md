@@ -16,7 +16,10 @@ Table of Contents
 
 
 ## [swift](./swift/)
+
 [Two initializer of AsyncImage](./swift/asyncimage.md)
+
+[How to fetch data from a URL](./swift/fetch-data.md)
 
 ## [webdesign](./webdesign/)
 
