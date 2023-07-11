@@ -1,6 +1,5 @@
 # How to fetch data from a URL
 
-## Fetching data from a URL
 
 ```swift
 struct ContentView: View {
