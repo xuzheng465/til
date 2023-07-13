@@ -27,6 +27,8 @@ Table of Contents
 
 [screen only realted elements](./webdesign/screen-only.md)
 
+[MVC, MVP, MVVM](./webdesign/mvc-mvvm.md)
+
 ## [python](./python/)
 
 [matplotlib not found in jupyter notebook](./python/notebook-matplotlib-not-found.md)
