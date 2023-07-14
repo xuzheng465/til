@@ -21,6 +21,8 @@ Table of Contents
 
 [How to fetch data from a URL](./swift/fetch-data.md)
 
+[Open file shortcut in Xcode](./swift/xcode-openfile.md)
+
 ## [webdesign](./webdesign/)
 
 [如何选择具有以"fa-"开头的类名的元素](./webdesign/css-selector-fa.md)
