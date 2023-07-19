@@ -61,3 +61,5 @@ Table of Contents
 ## [general](./general/)
 
 [read code](./general/read-code.md)
+
+[vscode shortcuts](./general/vscode-shortcut.md)
