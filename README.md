@@ -6,6 +6,7 @@ Table of Contents
 =================
 
    * [til](#til)
+      * [javascript](#javascript)
       * [swift](#swift)
       * [webdesign](#webdesign)
       * [python](#python)
@@ -15,6 +16,10 @@ Table of Contents
       * [general](#general)
 
 
+## [javascript](./javascript/)
+
+[DOMContentLoaded vs load](./javascript/domcontentloaded-vs-load.md)
+
 ## [swift](./swift/)
 
 [Two initializer of AsyncImage](./swift/asyncimage.md)
@@ -22,6 +27,10 @@ Table of Contents
 [How to fetch data from a URL](./swift/fetch-data.md)
 
 [Open file shortcut in Xcode](./swift/xcode-openfile.md)
+
+[Multi view popup](./swift/multiViewPopup.md)
+
+[Store Data in Core Data](./swift/store-core-data.md)
 
 ## [webdesign](./webdesign/)
 
