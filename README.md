@@ -20,6 +20,8 @@ Table of Contents
 
 [DOMContentLoaded vs load](./javascript/domcontentloaded-vs-load.md)
 
+[onclick vs addEventListener](./javascript/on-event.md)
+
 ## [swift](./swift/)
 
 [Two initializer of AsyncImage](./swift/asyncimage.md)
