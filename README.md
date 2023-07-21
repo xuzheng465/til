@@ -2,25 +2,29 @@
 
 📝Today I learned
 
-Table of Contents
-=================
+# Table of Contents
 
-   * [til](#til)
-      * [javascript](#javascript)
-      * [swift](#swift)
-      * [webdesign](#webdesign)
-      * [python](#python)
-      * [git](#git)
-      * [math](#math)
-      * [finance](#finance)
-      * [general](#general)
-
+- [til](#til)
+  - [javascript](#javascript)
+  - [swift](#swift)
+  - [webdesign](#webdesign)
+  - [python](#python)
+  - [git](#git)
+  - [math](#math)
+  - [finance](#finance)
+  - [general](#general)
 
 ## [javascript](./javascript/)
 
 [DOMContentLoaded vs load](./javascript/domcontentloaded-vs-load.md)
 
 [onclick vs addEventListener](./javascript/on-event.md)
+
+##[react](./react/)
+
+[how to avoid fetch twice](./react/avoid-fetch-twice.md)
+
+[how to waste 500ms on purpose](./react/waste-time-purpose.md)
 
 ## [swift](./swift/)
 
