@@ -48,6 +48,10 @@
 
 [What is REST api?](./webdesign/rest-api.md)
 
+## [go](./go/)
+
+[Batch rename files in Golang](./go/change-names.md)
+
 ## [python](./python/)
 
 [matplotlib not found in jupyter notebook](./python/notebook-matplotlib-not-found.md)
