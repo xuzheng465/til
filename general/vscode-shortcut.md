@@ -7,3 +7,7 @@
 ## Rename variable
 
 - `F2` to rename variable
+
+## Wrap element in Codepen
+
+- `CMD` + `Shift` + `a`
