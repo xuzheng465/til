@@ -20,6 +20,8 @@
 
 [onclick vs addEventListener](./javascript/on-event.md)
 
+[Barrel](./javascript/barrel.md)
+
 ##[react](./react/)
 
 [how to avoid fetch twice](./react/avoid-fetch-twice.md)
