@@ -24,7 +24,7 @@
 
 [as const](./javascript/ts-as-const.md)
 
-##[react](./react/)
+## [react](./react/)
 
 [how to avoid fetch twice](./react/avoid-fetch-twice.md)
 
