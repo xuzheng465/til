@@ -1,6 +1,6 @@
 # til
 
-📝Today I learned
+📝 Today I learned
 
 # Table of Contents
 
