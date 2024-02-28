@@ -48,6 +48,10 @@
 
 - [How to get Character's ascii value](./swift/char-ascii.md)
 
+### [swift/array](./swift/array/)
+
+- [How to use `Array` in Swift](./swift/array/array.md)
+
 ### [swift/hashmap](./swift/hashmap/)
 
 - [How to use `Dictionary` in Swift](./swift/hashmap/dictionary.md)

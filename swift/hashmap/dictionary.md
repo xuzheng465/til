@@ -128,3 +128,24 @@ let dict = Dictionary(uniqueKeysWithValues: ["a", "b", "c"]
                         .map { ($0, $0.first!) })
 print(dict) // ["a": "a", "b": "b", "c": "c"]
 ```
+
+## common dictionary operations
+
+```swift
+let dict = ["a": 1, "b": 2, "c": 3]
+let keys = dict.keys
+let values = dict.values
+let count = dict.count
+let isEmpty = dict.isEmpty
+
+// update
+var dict = ["a": 1, "b": 2, "c": 3]
+dict["a"] = 4
+print(dict) // ["a": 4, "b": 2, "c": 3]
+
+// updateValue
+var dict = ["a": 1, "b": 2, "c": 3]
+dict.updateValue(4, forKey: "a")
+print(dict) // ["a": 4, "b": 2, "c": 3]
+
+```
