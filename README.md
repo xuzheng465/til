@@ -46,6 +46,8 @@
 
 - [Store Data in Core Data](./swift/store-core-data.md)
 
+- [How to get Character's ascii value](./swift/char-ascii.md)
+
 ### [swift/hashmap](./swift/hashmap/)
 
 - [How to use `Dictionary` in Swift](./swift/hashmap/dictionary.md)
