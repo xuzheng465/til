@@ -46,6 +46,10 @@
 
 - [Store Data in Core Data](./swift/store-core-data.md)
 
+### [swift/hashmap](./swift/hashmap/)
+
+- [How to use `Dictionary` in Swift](./swift/hashmap/dictionary.md)
+
 ## [webdesign](./webdesign/)
 
 - [如何选择具有以"fa-"开头的类名的元素](./webdesign/css-selector-fa.md)
