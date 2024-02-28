@@ -2,7 +2,8 @@
 
 ```swift
 let char: Character = "a"
-let ascii = char.asciiValue
+// 不加 ! 的话是一个 optional
+let ascii = char.asciiValue!
 print(ascii) // 97
 ```
 
