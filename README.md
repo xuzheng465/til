@@ -14,7 +14,11 @@
   - [finance](#finance)
   - [general](#general)
 
-## [javascript](./javascript/)
+## [PHP](./php/)
+
+- [Manipulate string](./php/manipulate-string.md)
+
+## [Javascript](./javascript/)
 
 - [DOMContentLoaded vs load](./javascript/domcontentloaded-vs-load.md)
 
@@ -47,6 +51,8 @@
 - [Store Data in Core Data](./swift/store-core-data.md)
 
 - [How to get Character's ascii value](./swift/char-ascii.md)
+
+- [Swift string filter, keep number and alphabet](./swift/filter-string-num-alph.md)
 
 ### [swift/array](./swift/array/)
 
