@@ -54,6 +54,8 @@
 
 - [Swift string filter, keep number and alphabet](./swift/filter-string-num-alph.md)
 
+- [Basic number operations](./swift/number-operations.md)
+
 ### [swift/array](./swift/array/)
 
 - [How to use `Array` in Swift](./swift/array/array.md)
