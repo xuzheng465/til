@@ -186,6 +186,8 @@ for (index, value) in arr2.enumerated() {
     print("index: \(index), value: \(value)")
 }
 
+// get the last element
+let lastElement = arr2[arr2.endIndex - 1]
 
 
 ```

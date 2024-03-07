@@ -56,6 +56,8 @@
 
 - [Basic number operations](./swift/number-operations.md)
 
+- [Common Properties in CharacterSet](./swift/characterset-properties.md)
+
 ### [swift/array](./swift/array/)
 
 - [How to use `Array` in Swift](./swift/array/array.md)
