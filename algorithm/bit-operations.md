@@ -48,3 +48,15 @@ class Solution {
     }
 }
 ```
+
+因为 swift 中数组是值类型，在添加到结果数组时，实际上会将 track 的数组内容复制一份，所以不需要担心 track 的内容会被修改。
+
+但在 Kotlin 和 Java 中，数组是引用类型，所以需要在添加到结果数组时，将 track 的数组内容复制一份。
+
+```kotlin
+res.add(ArrayList(track))
+```
+
+```java
+res.add(new ArrayList<>(track));
+```
