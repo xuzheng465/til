@@ -5,38 +5,16 @@
 # Table of Contents
 
 - [til](#til)
-  - [javascript](#javascript)
   - [swift](#swift)
+  - [algorithm](#algorithm)
+  - [php](#php)
+  - [javascript](#javascript)
   - [webdesign](#webdesign)
   - [python](#python)
   - [git](#git)
   - [math](#math)
   - [finance](#finance)
   - [general](#general)
-
-## [PHP](./php/)
-
-- [Manipulate string](./php/manipulate-string.md)
-
-## [Javascript](./javascript/)
-
-- [DOMContentLoaded vs load](./javascript/domcontentloaded-vs-load.md)
-
-- [onclick vs addEventListener](./javascript/on-event.md)
-
-- [Barrel](./javascript/barrel.md)
-
-- [as const](./javascript/ts-as-const.md)
-
-- [TypeScript Check Index Access](./javascript/ts-check-index-access.md)
-
-- [Don't put your types in `.d.ts`](./javascript/ts-d-ts.md)
-
-## [react](./react/)
-
-- [how to avoid fetch twice](./react/avoid-fetch-twice.md)
-
-- [how to waste 500ms on purpose](./react/waste-time-purpose.md)
 
 ## [swift](./swift/)
 
@@ -65,6 +43,34 @@
 ### [swift/hashmap](./swift/hashmap/)
 
 - [How to use `Dictionary` in Swift](./swift/hashmap/dictionary.md)
+
+## [algorithm](./algorithm/)
+
+- [use bit operations to replace array](./algorithm/bit-operations.md)
+
+## [PHP](./php/)
+
+- [Manipulate string](./php/manipulate-string.md)
+
+## [Javascript](./javascript/)
+
+- [DOMContentLoaded vs load](./javascript/domcontentloaded-vs-load.md)
+
+- [onclick vs addEventListener](./javascript/on-event.md)
+
+- [Barrel](./javascript/barrel.md)
+
+- [as const](./javascript/ts-as-const.md)
+
+- [TypeScript Check Index Access](./javascript/ts-check-index-access.md)
+
+- [Don't put your types in `.d.ts`](./javascript/ts-d-ts.md)
+
+## [react](./react/)
+
+- [how to avoid fetch twice](./react/avoid-fetch-twice.md)
+
+- [how to waste 500ms on purpose](./react/waste-time-purpose.md)
 
 ## [webdesign](./webdesign/)
 
