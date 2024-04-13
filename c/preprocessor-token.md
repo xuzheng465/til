@@ -62,6 +62,30 @@ DECLARE_VECTOR(int)
   // 展开为一个专门用于int类型的Vector_int结构体定义
 ```
 
+实际的泛型宏
+
+```c
+#define sin(X) _Generic((X), \
+    long double: sinl, \
+    float: sinf, \
+    default: sin \
+)(X)
+
+int main(void) {
+    float f = sin(3.14f);
+    double d = sin(3.14);
+}
+```
+
+展开后
+
+```c
+int main(void) {
+    float f = sinf(3.14f);
+    double d = sin(3.14);
+}
+```
+
 ### 实现条件编译
 
 虽然`##`操作符本身不直接参与条件编译，但它可以用来生成根据不同条件编译的代码块中需要的标识符，从而间接实现条件编译的效果。
