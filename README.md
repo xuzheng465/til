@@ -20,6 +20,7 @@
 ## [c](./c/)
 
 - [Preprocessor `#` and `##`](./c/preprocessor-token.md)
+- [Adjust spaces width](./c/spaces-width.md)
 
 ## [swift](./swift/)
 
