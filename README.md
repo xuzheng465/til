@@ -5,6 +5,7 @@
 # Table of Contents
 
 - [til](#til)
+  - [android](#android)
   - [c](#c)
   - [swift](#swift)
   - [algorithm](#algorithm)
@@ -17,6 +18,10 @@
   - [math](#math)
   - [finance](#finance)
   - [general](#general)
+
+## [android](./android/)
+
+- [Double Paste Problem in Anroid Studio](./android/double-paste-problem.md)
 
 ## [c](./c/)
 
