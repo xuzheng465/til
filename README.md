@@ -5,6 +5,7 @@
 # Table of Contents
 
 - [til](#til)
+  - [compiler](#compiler)
   - [android](#android)
   - [c](#c)
   - [swift](#swift)
@@ -18,6 +19,10 @@
   - [math](#math)
   - [finance](#finance)
   - [general](#general)
+
+## [compiler](./compiler/)
+
+- [NFA vs DFA](./compiler/nfa-dfa.md)
 
 ## [android](./android/)
 
