@@ -21,6 +21,10 @@
 
 ## [android](./android/)
 
+- contentAlignment vs verticalArrangement
+
+  - [contentAlignment](./android/contentAlignment-verticalArrangement.md)
+
 - [Double Paste Problem in Anroid Studio](./android/double-paste-problem.md)
 
 ## [c](./c/)
