@@ -5,6 +5,7 @@
 # Table of Contents
 
 - [til](#til)
+  - [go](#go)
   - [compiler](#compiler)
   - [android](#android)
   - [c](#c)
@@ -19,6 +20,8 @@
   - [math](#math)
   - [finance](#finance)
   - [general](#general)
+
+## [go](./go/)
 
 ## [compiler](./compiler/)
 
