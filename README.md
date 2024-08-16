@@ -23,6 +23,8 @@
 
 ## [go](./go/)
 
+- [How to use file glob](./go/file-glob.md)
+
 ## [compiler](./compiler/)
 
 - [NFA vs DFA](./compiler/nfa-dfa.md)
