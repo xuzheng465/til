@@ -142,3 +142,5 @@
 - [read code](./general/read-code.md)
 
 - [vscode shortcuts](./general/vscode-shortcut.md)
+
+- [curl download](./general/curl-download.md)
