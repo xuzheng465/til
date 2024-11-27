@@ -5,6 +5,7 @@
 # Table of Contents
 
 - [til](#til)
+  - [lisper](#lisper)
   - [network](#network)
   - [go](#go)
   - [compiler](#compiler)
@@ -21,6 +22,10 @@
   - [math](#math)
   - [finance](#finance)
   - [general](#general)
+
+## [lisper](./lisper/)
+
+- [reverse list](./lisper/reverse.md)
 
 ## [network](./network/)
 
