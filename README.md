@@ -5,6 +5,7 @@
 # Table of Contents
 
 - [til](#til)
+  - [algorithm](#algorithm)
   - [lisper](#lisper)
   - [network](#network)
   - [go](#go)
@@ -12,7 +13,6 @@
   - [android](#android)
   - [c](#c)
   - [swift](#swift)
-  - [algorithm](#algorithm)
   - [php](#php)
   - [html](#html)
   - [javascript](#javascript)
@@ -22,6 +22,14 @@
   - [math](#math)
   - [finance](#finance)
   - [general](#general)
+
+## [algorithm](./algorithm/)
+
+- [use bit operations to replace array](./algorithm/bit-operations.md)
+
+- [min query](./algorithm/minquery.md)
+
+- [快速幂](./algorithm/quickpow.md)
 
 ## [lisper](./lisper/)
 
@@ -77,12 +85,6 @@
 ### [swift/hashmap](./swift/hashmap/)
 
 - [How to use `Dictionary` in Swift](./swift/hashmap/dictionary.md)
-
-## [algorithm](./algorithm/)
-
-- [use bit operations to replace array](./algorithm/bit-operations.md)
-
-- [min query](./algorithm/minquery.md)
 
 ## [PHP](./php/)
 
