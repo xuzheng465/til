@@ -82,6 +82,8 @@
 
 - [use bit operations to replace array](./algorithm/bit-operations.md)
 
+- [min query](./algorithm/minquery.md)
+
 ## [PHP](./php/)
 
 - [Manipulate string](./php/manipulate-string.md)
