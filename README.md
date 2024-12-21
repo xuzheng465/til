@@ -7,6 +7,7 @@
 - [til](#til)
   - [algorithm](#algorithm)
   - [lisper](#lisper)
+  - [haskell](#haskell)
   - [network](#network)
   - [go](#go)
   - [compiler](#compiler)
@@ -34,6 +35,10 @@
 ## [lisper](./lisper/)
 
 - [reverse list](./lisper/reverse.md)
+
+## [haskell](./haskell/)
+
+- [Haskell mooc 环境搭建](./haskell/haskell-mooc-env.md)
 
 ## [network](./network/)
 
