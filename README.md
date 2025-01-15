@@ -62,6 +62,7 @@
 
 - [Preprocessor `#` and `##`](./c/preprocessor-token.md)
 - [Adjust spaces width](./c/spaces-width.md)
+- [将 x 中的位设置为 y 的值](./c/set-bit.md)
 
 ## [swift](./swift/)
 
