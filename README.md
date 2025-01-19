@@ -24,6 +24,10 @@
   - [finance](#finance)
   - [general](#general)
 
+## [Computer Graphics](./computer-graphics/)
+
+- [Scotty3D debugger configuration](./computer-graphics/scotty3d-debugger.md)
+
 ## [algorithm](./algorithm/)
 
 - [use bit operations to replace array](./algorithm/bit-operations.md)
